@@ -55,6 +55,18 @@ body{
 }
 
 /*MAIN*/
+
+.greeting  {
+    background: crimson;
+    font-size: 30px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
 .seccion2{
     display: flex;
     justify-content: center;
